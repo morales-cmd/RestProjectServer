@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application xmlns="http://wadl.dev.java.net/2009/02">
+    <doc xmlns:jersey="http://jersey.java.net/" jersey:generatedBy="Jersey: 2.28 2019-01-25 15:18:13"/>
+    <doc xmlns:jersey="http://jersey.java.net/" jersey:hint="This is simplified WADL with user and core resources only. To get full WADL with extended resources use the query parameter detail. Link: http://25.76.141.122:8080/RestProjectServer/webresources/application.wadl?detail=true"/>
+    <grammars>
+        <include href="application.wadl/xsd0.xsd">
+            <doc title="Generated" xml:lang="en"/>
+        </include>
+    </grammars>
+    <resources base="http://25.76.141.122:8080/RestProjectServer/webresources/">
+        <resource path="/sklep">
+            <method id="getMagazyn" name="GET">
+                <response>
+                    <representation mediaType="application/json"/>
+                </response>
+            </method>
+            <resource path="/stan/{cardName}">
+                <param xmlns:xs="http://www.w3.org/2001/XMLSchema" name="cardName" style="template" type="xs:string"/>
+                <method id="getStan" name="GET">
+                    <response>
+                        <ns2:representation xmlns:ns2="http://wadl.dev.java.net/2009/02" xmlns="" element="stan" mediaType="application/json"/>
+                    </response>
+                </method>
+                <method id="updateKoszyk" name="PUT">
+                    <request>
+                        <param xmlns:xs="http://www.w3.org/2001/XMLSchema" name="ilosc" style="query" type="xs:int"/>
+                    </request>
+                    <response>
+                        <ns2:representation xmlns:ns2="http://wadl.dev.java.net/2009/02" xmlns="" element="coreLinki" mediaType="application/json"/>
+                    </response>
+                </method>
+            </resource>
+            <resource path="/user/koszyk">
+                <method id="getKoszyk" name="GET">
+                    <response>
+                        <representation mediaType="application/json"/>
+                    </response>
+                </method>
+                <method id="zlozZamowienie" name="POST">
+                    <response>
+                        <ns2:representation xmlns:ns2="http://wadl.dev.java.net/2009/02" xmlns="" element="potwZamowienia" mediaType="application/json"/>
+                    </response>
+                </method>
+            </resource>
+            <resource path="/user/koszyk/{cardName}">
+                <param xmlns:xs="http://www.w3.org/2001/XMLSchema" name="cardName" style="template" type="xs:string"/>
+                <method id="deleteFromKoszyk" name="DELETE">
+                    <response>
+                        <ns2:representation xmlns:ns2="http://wadl.dev.java.net/2009/02" xmlns="" element="coreLinki" mediaType="application/json"/>
+                    </response>
+                </method>
+                <method id="zwrocpozycjeZKoszyka" name="GET">
+                    <response>
+                        <ns2:representation xmlns:ns2="http://wadl.dev.java.net/2009/02" xmlns="" element="stan" mediaType="application/json"/>
+                    </response>
+                </method>
+            </resource>
+            <resource path="konto">
+                <method id="getKonto" name="GET">
+                    <response>
+                        <ns2:representation xmlns:ns2="http://wadl.dev.java.net/2009/02" xmlns="" element="daneKlienta" mediaType="application/json"/>
+                    </response>
+                </method>
+            </resource>
+        </resource>
+    </resources>
+</application>

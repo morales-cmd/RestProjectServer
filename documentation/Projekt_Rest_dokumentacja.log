@@ -1,0 +1,598 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2021.2.2)  7 JUN 2021 15:09
+entering extended mode
+**./Projekt_Rest_dokumentacja.tex
+(Projekt_Rest_dokumentacja.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-10-27> xparse <2020-03-03>
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2020/10/27 3.51 The Babel package
+
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2020/10/27 3.51 Babel common definitions
+\babel@savecnt=\count183
+\U@D=\dimen139
+\l@babelnohyphens=\language79
+
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count184
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/babel-polish\polish.ldf
+Language: polish 2005/03/31 v1.2l Polish support from the babel system
+Package babel Info: Making " an active character on input line 83.
+\pl@left=\dimen140
+\pl@down=\dimen141
+\pl@right=\dimen142
+\pl@temp=\dimen143
+)) (C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen144
+))
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen145
+)
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count185
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count186
+\leftroot@=\count187
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count188
+\DOTSCASE@=\count189
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen146
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count190
+\c@MaxMatrixCols=\count191
+\dotsspace@=\muskip16
+\c@parentequation=\count192
+\dspbrk@lvl=\count193
+\tag@help=\toks18
+\row@=\count194
+\column@=\count195
+\maxfields@=\count196
+\andhelp@=\toks19
+\eqnshift@=\dimen147
+\alignsep@=\dimen148
+\tagshift@=\dimen149
+\tagwidth@=\dimen150
+\totwidth@=\dimen151
+\lineht@=\dimen152
+\@envbody=\toks20
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count197
+\c@Blindtext=\count198
+\c@blind@countparstart=\count199
+\blind@countxx=\count266
+\blindtext@numBlindtext=\count267
+\blind@countyy=\count268
+\c@blindlist=\count269
+\c@blindlistlevel=\count270
+\c@blindlist@level=\count271
+\blind@listitem=\count272
+\c@blind@listcount=\count273
+\c@blind@levelcount=\count274
+\blind@mathformula=\count275
+\blind@Mathformula=\count276
+\c@blind@randomcount=\count277
+\c@blind@randommax=\count278
+\c@blind@pangramcount=\count279
+\c@blind@pangrammax=\count280
+)
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+\captionmargin=\dimen153
+\captionmargin@=\dimen154
+\captionwidth=\dimen155
+\caption@tempdima=\dimen156
+\caption@indent=\dimen157
+\caption@parindent=\dimen158
+\caption@hangindent=\dimen159
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count281
+\c@continuedfloat=\count282
+)
+\c@subfigure=\count283
+\c@subtable=\count284
+) (C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count285
+\float@exts=\toks23
+\float@box=\box49
+\@float@everytoks=\toks24
+\@floatcapt=\box50
+)
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)) (C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen160
+\WF@size=\dimen161
+\c@WF@wrappedlines=\count286
+\WF@box=\box51
+\WF@everypar=\toks25
+Package: wrapfig 2003/01/31  v 3.6
+) (C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count287
+\lst@gtempboxa=\box52
+\lst@token=\toks26
+\lst@length=\count288
+\lst@currlwidth=\dimen162
+\lst@column=\count289
+\lst@pos=\count290
+\lst@lostspace=\dimen163
+\lst@width=\dimen164
+\lst@newlines=\count291
+\lst@lineno=\count292
+\lst@maxwidth=\dimen165
+
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count293
+\lst@skipnumbers=\count294
+\lst@framebox=\box53
+)
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen166
+\Gin@req@width=\dimen167
+)
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 20
+.
+ (C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count295
+\l__pdf_internal_box=\box54
+) (Projekt_Rest_dokumentacja.aux)
+\openout1 = `Projekt_Rest_dokumentacja.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count296
+\scratchdimen=\dimen168
+\scratchbox=\box55
+\nofMPsegments=\count297
+\nofMParguments=\count298
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count299
+\MPscratchDim=\dimen169
+\MPnumerator=\count300
+\makeMPintoPDFobject=\count301
+\everyMPtoPDFconversion=\toks28
+)
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+\c@lstlisting=\count302
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
+9.
+ (C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
+9.
+
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+29.
+
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+29.
+
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 29.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 29.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 29.
+ [1
+
+{C:/Users/kuba2/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+(Projekt_Rest_dokumentacja.toc
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 3.
+)
+\tf@toc=\write3
+\openout3 = `Projekt_Rest_dokumentacja.toc'.
+
+ [1]
+Overfull \hbox (2.17041pt too wide) in paragraph at lines 37--39
+\T1/lmr/m/n/10.95 Dokument opi-suje stan-dardy sie-ciowe, we-dªug któ-rych zbu-
+do-wana jest usªuga
+ []
+
+
+Overfull \hbox (0.77217pt too wide) in paragraph at lines 44--45
+\T1/lmr/m/n/10.95 http://25.76.141.122:8080/RestProjectServer/webresources/skle
+p/ , a od-po-
+ []
+
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+)
+(Plik_wadl.xml
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
+.
+
+(C:\Users\kuba2\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [2]
+[3]) [4]
+Overfull \hbox (19.17363pt too wide) in paragraph at lines 98--99
+\T1/lmr/m/n/10.95 Obiekty za-wie-ra-j¡ce in-for-ma-cje o da-nym sta-nie zwi¡-za
+-nym z dan¡ kart¡(zarówno
+ []
+
+
+Overfull \hbox (37.36374pt too wide) in paragraph at lines 103--104
+[]\T1/lmr/m/n/10.95 wartosc_razem- cena wszyst-kich kart w da-nym sta-nie brutt
+o (cena*na_stanie) 
+ []
+
+[5]
+<komunikaty_zdjecia_rest/link.jpg, id=30, 429.40425pt x 42.75975pt>
+File: komunikaty_zdjecia_rest/link.jpg Graphic file (type jpg)
+<use komunikaty_zdjecia_rest/link.jpg>
+Package pdftex.def Info: komunikaty_zdjecia_rest/link.jpg  used on input line 1
+40.
+(pdftex.def)             Requested size: 288.0011pt x 28.68018pt.
+<komunikaty_zdjecia_rest/getMagazyn_res_head.jpg, id=31, 490.83376pt x 161.403p
+t>
+File: komunikaty_zdjecia_rest/getMagazyn_res_head.jpg Graphic file (type jpg)
+<use komunikaty_zdjecia_rest/getMagazyn_res_head.jpg>
+Package pdftex.def Info: komunikaty_zdjecia_rest/getMagazyn_res_head.jpg  used 
+on input line 161.
+(pdftex.def)             Requested size: 288.0011pt x 94.70729pt.
+ [6 <./komunikaty_zdjecia_rest/link.jpg>]
+Overfull \hbox (69.66646pt too wide) in paragraph at lines 169--170
+[]\T1/lmr/m/n/10.95 ±cie»ka do ope-ra-cji:http://25.76.141.122:8080/RestProject
+Server/webresources/sklep 
+ []
+
+<komunikaty_zdjecia_rest/getMagazyn_req.jpg, id=36, 516.12825pt x 87.32625pt>
+File: komunikaty_zdjecia_rest/getMagazyn_req.jpg Graphic file (type jpg)
+<use komunikaty_zdjecia_rest/getMagazyn_req.jpg>
+Package pdftex.def Info: komunikaty_zdjecia_rest/getMagazyn_req.jpg  used on in
+put line 183.
+(pdftex.def)             Requested size: 288.0011pt x 48.7278pt.
+<komunikaty_zdjecia_rest/getMagazyn_res_body.jpg, id=37, 812.43526pt x 355.3275
+pt>
+File: komunikaty_zdjecia_rest/getMagazyn_res_body.jpg Graphic file (type jpg)
+<use komunikaty_zdjecia_rest/getMagazyn_res_body.jpg>
+Package pdftex.def Info: komunikaty_zdjecia_rest/getMagazyn_res_body.jpg  used 
+on input line 189.
+(pdftex.def)             Requested size: 288.0011pt x 125.9605pt.
+[7 <./komunikaty_zdjecia_rest/getMagazyn_res_head.jpg> <./komunikaty_zdjecia_re
+st/getMagazyn_req.jpg>]
+Overfull \hbox (19.6913pt too wide) in paragraph at lines 198--199
+\T1/lmr/m/n/10.95 http://25.76.141.122:8080/RestProjectServer/webresources/skle
+p/{nazwa
+ []
+
+<komunikaty_zdjecia_rest/getStan_req.jpg, id=41, 516.12825pt x 63.8385pt>
+File: komunikaty_zdjecia_rest/getStan_req.jpg Graphic file (type jpg)
+<use komunikaty_zdjecia_rest/getStan_req.jpg>
+Package pdftex.def Info: komunikaty_zdjecia_rest/getStan_req.jpg  used on input
+ line 208.
+(pdftex.def)             Requested size: 288.0011pt x 35.6217pt.
+<komunikaty_zdjecia_rest/getStan_res_body.jpg, id=42, 688.37175pt x 246.9225pt>
+
+File: komunikaty_zdjecia_rest/getStan_res_body.jpg Graphic file (type jpg)
+<use komunikaty_zdjecia_rest/getStan_res_body.jpg>
+Package pdftex.def Info: komunikaty_zdjecia_rest/getStan_res_body.jpg  used on 
+input line 214.
+(pdftex.def)             Requested size: 288.0011pt x 103.31111pt.
+[8 <./komunikaty_zdjecia_rest/getMagazyn_res_body.jpg> <./komunikaty_zdjecia_re
+st/getStan_req.jpg>]
+Overfull \hbox (19.6913pt too wide) in paragraph at lines 224--225
+\T1/lmr/m/n/10.95 http://25.76.141.122:8080/RestProjectServer/webresources/skle
+p/{nazwa
+ []
+
+<komunikaty_zdjecia_rest/updateKoszyk_req.jpg, id=46, 520.94624pt x 58.41824pt>
+
+File: komunikaty_zdjecia_rest/updateKoszyk_req.jpg Graphic file (type jpg)
+<use komunikaty_zdjecia_rest/updateKoszyk_req.jpg>
+Package pdftex.def Info: komunikaty_zdjecia_rest/updateKoszyk_req.jpg  used on 
+input line 235.
+(pdftex.def)             Requested size: 288.0011pt x 32.29591pt.
+<komunikaty_zdjecia_rest/updateKoszyk_res_body.jpg, id=47, 591.4095pt x 125.870
+25pt>
+File: komunikaty_zdjecia_rest/updateKoszyk_res_body.jpg Graphic file (type jpg)
+
+<use komunikaty_zdjecia_rest/updateKoszyk_res_body.jpg>
+Package pdftex.def Info: komunikaty_zdjecia_rest/updateKoszyk_res_body.jpg  use
+d on input line 241.
+(pdftex.def)             Requested size: 288.0011pt x 61.29475pt.
+[9 <./komunikaty_zdjecia_rest/getStan_res_body.jpg> <./komunikaty_zdjecia_rest/
+updateKoszyk_req.jpg>]
+Overfull \hbox (82.22899pt too wide) in paragraph at lines 249--250
+\T1/lmr/m/n/10.95 operacji:http://25.76.141.122:8080/RestProjectServer/webresou
+rces/sklep/user/koszyk 
+ []
+
+<komunikaty_zdjecia_rest/getKoszyk_req.jpg, id=51, 508.90125pt x 44.5665pt>
+File: komunikaty_zdjecia_rest/getKoszyk_req.jpg Graphic file (type jpg)
+<use komunikaty_zdjecia_rest/getKoszyk_req.jpg>
+Package pdftex.def Info: komunikaty_zdjecia_rest/getKoszyk_req.jpg  used on inp
+ut line 261.
+(pdftex.def)             Requested size: 288.0011pt x 25.22226pt.
+<komunikaty_zdjecia_rest/getKoszyk_res_body.jpg, id=52, 646.21425pt x 361.95226
+pt>
+File: komunikaty_zdjecia_rest/getKoszyk_res_body.jpg Graphic file (type jpg)
+<use komunikaty_zdjecia_rest/getKoszyk_res_body.jpg>
+Package pdftex.def Info: komunikaty_zdjecia_rest/getKoszyk_res_body.jpg  used o
+n input line 267.
+(pdftex.def)             Requested size: 288.0011pt x 161.31401pt.
+[10 <./komunikaty_zdjecia_rest/updateKoszyk_res_body.jpg> <./komunikaty_zdjecia
+_rest/getKoszyk_req.jpg> <./komunikaty_zdjecia_rest/getKoszyk_res_body.jpg>]
+Overfull \hbox (76.41919pt too wide) in paragraph at lines 276--277
+\T1/lmr/m/n/10.95 http://25.76.141.122:8080/RestProjectServer/webresources/skle
+p/user/koszyk{nazwa
+ []
+
+<komunikaty_zdjecia_rest/zwrocpozycjeZKoszyka_req.jpg, id=56, 518.53725pt x 51.
+7935pt>
+File: komunikaty_zdjecia_rest/zwrocpozycjeZKoszyka_req.jpg Graphic file (type j
+pg)
+<use komunikaty_zdjecia_rest/zwrocpozycjeZKoszyka_req.jpg>
+Package pdftex.def Info: komunikaty_zdjecia_rest/zwrocpozycjeZKoszyka_req.jpg  
+used on input line 286.
+(pdftex.def)             Requested size: 288.0011pt x 28.76627pt.
+<komunikaty_zdjecia_rest/zwrocpozycjeZKoszyka_res_body.jpg, id=57, 685.96275pt 
+x 232.4685pt>
+File: komunikaty_zdjecia_rest/zwrocpozycjeZKoszyka_res_body.jpg Graphic file (t
+ype jpg)
+<use komunikaty_zdjecia_rest/zwrocpozycjeZKoszyka_res_body.jpg>
+Package pdftex.def Info: komunikaty_zdjecia_rest/zwrocpozycjeZKoszyka_res_body.
+jpg  used on input line 292.
+(pdftex.def)             Requested size: 288.0011pt x 97.60417pt.
+
+Overfull \hbox (81.89418pt too wide) in paragraph at lines 301--302
+\T1/lmr/m/n/10.95 http://25.76.141.122:8080/RestProjectServer/webresources/skle
+p/user/koszyk/{nazwa
+ []
+
+[11 <./komunikaty_zdjecia_rest/zwrocpozycjeZKoszyka_req.jpg> <./komunikaty_zdje
+cia_rest/zwrocpozycjeZKoszyka_res_body.jpg>]
+<komunikaty_zdjecia_rest/deleteFromKoszyk_req.jpg, id=61, 473.97075pt x 66.8497
+5pt>
+File: komunikaty_zdjecia_rest/deleteFromKoszyk_req.jpg Graphic file (type jpg)
+<use komunikaty_zdjecia_rest/deleteFromKoszyk_req.jpg>
+Package pdftex.def Info: komunikaty_zdjecia_rest/deleteFromKoszyk_req.jpg  used
+ on input line 312.
+(pdftex.def)             Requested size: 288.0011pt x 40.62016pt.
+<komunikaty_zdjecia_rest/deleteFromKoszyk_res_body.jpg, id=62, 559.49025pt x 12
+1.05225pt>
+File: komunikaty_zdjecia_rest/deleteFromKoszyk_res_body.jpg Graphic file (type 
+jpg)
+<use komunikaty_zdjecia_rest/deleteFromKoszyk_res_body.jpg>
+Package pdftex.def Info: komunikaty_zdjecia_rest/deleteFromKoszyk_res_body.jpg 
+ used on input line 318.
+(pdftex.def)             Requested size: 288.0011pt x 62.31396pt.
+
+Overfull \hbox (0.22475pt too wide) in paragraph at lines 324--326
+\T1/lmr/m/n/10.95 Operacja spraw-dza po-praw-no±¢ ko-szyka (spój-no±¢ z ma-ga-z
+y-nem), stan konta
+ []
+
+
+Overfull \hbox (41.44034pt too wide) in paragraph at lines 328--329
+\T1/lmr/m/n/10.95 http://25.76.141.122:8080/RestProjectServer/webresources/skle
+p/user/koszyk 
+ []
+
+<komunikaty_zdjecia_rest/zlozZamowienie_req.jpg, id=63, 454.69875pt x 56.00925p
+t>
+File: komunikaty_zdjecia_rest/zlozZamowienie_req.jpg Graphic file (type jpg)
+<use komunikaty_zdjecia_rest/zlozZamowienie_req.jpg>
+Package pdftex.def Info: komunikaty_zdjecia_rest/zlozZamowienie_req.jpg  used o
+n input line 338.
+(pdftex.def)             Requested size: 288.0011pt x 35.47572pt.
+<komunikaty_zdjecia_rest/zlozZamowienie_res_body.jpg, id=64, 581.17125pt x 520.
+94624pt>
+File: komunikaty_zdjecia_rest/zlozZamowienie_res_body.jpg Graphic file (type jp
+g)
+<use komunikaty_zdjecia_rest/zlozZamowienie_res_body.jpg>
+Package pdftex.def Info: komunikaty_zdjecia_rest/zlozZamowienie_res_body.jpg  u
+sed on input line 344.
+(pdftex.def)             Requested size: 288.0011pt x 258.15933pt.
+[12 <./komunikaty_zdjecia_rest/deleteFromKoszyk_req.jpg> <./komunikaty_zdjecia_
+rest/deleteFromKoszyk_res_body.jpg>] [13 <./komunikaty_zdjecia_rest/zlozZamowie
+nie_req.jpg> <./komunikaty_zdjecia_rest/zlozZamowienie_res_body.jpg>]
+(Projekt_Rest_dokumentacja.aux) ) 
+Here is how much of TeX's memory you used:
+ 6587 strings out of 479798
+ 104127 string characters out of 2869706
+ 844236 words of memory out of 3000000
+ 23471 multiletter control sequences out of 15000+200000
+ 581497 words of font info for 56 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 77i,7n,85p,956b,1695s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/kuba2/AppData/Local/Programs/MiKTeX/
+fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/kuba2/AppData/Local/Programs/MiKTeX/fon
+ts/enc/dvips/lm/lm-ec.enc}<C:/Users/kuba2/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/lm/lmbx10.pfb><C:/Users/kuba2/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/lm/lmbx12.pfb><C:/Users/kuba2/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/lm/lmbx9.pfb><C:/Users/kuba2/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/lm/lmr10.pfb><C:/Users/kuba2/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/lm/lmr12.pfb><C:/Users/kuba2/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/lm/lmr17.pfb><C:/Users/kuba2/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/lm/lmr6.pfb><C:/Users/kuba2/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/lm/lmr9.pfb>
+Output written on Projekt_Rest_dokumentacja.pdf (14 pages, 955432 bytes).
+PDF statistics:
+ 102 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+

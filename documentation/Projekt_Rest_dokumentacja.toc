@@ -1,0 +1,23 @@
+\babel@toc {polish}{}
+\contentsline {section}{\numberline {1}Wstęp}{1}{}%
+\contentsline {subsection}{\numberline {1.1}Przeznaczenie}{1}{}%
+\contentsline {subsection}{\numberline {1.2}Zakres}{2}{}%
+\contentsline {section}{\numberline {2}Specyfikacja usługi Web Service}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Adres usługi}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Specyfikacja wadl}{2}{}%
+\contentsline {subsection}{\numberline {2.3}Operacje usługi}{4}{}%
+\contentsline {subsection}{\numberline {2.4}Zwracane obiekty}{5}{}%
+\contentsline {subsubsection}{\numberline {2.4.1}Stan}{5}{}%
+\contentsline {subsubsection}{\numberline {2.4.2}Karta}{5}{}%
+\contentsline {subsubsection}{\numberline {2.4.3}Magazyn}{5}{}%
+\contentsline {subsubsection}{\numberline {2.4.4}Potw\_zamowienia}{6}{}%
+\contentsline {subsection}{\numberline {2.5}Implementacja HATEOAS (Hypermedia as the Engine of Application State) }{6}{}%
+\contentsline {subsection}{\numberline {2.6}Specyfikacja wejście-wyjście opercji Web Service}{6}{}%
+\contentsline {subsubsection}{\numberline {2.6.1}Nagłówki odpowiedzi}{6}{}%
+\contentsline {subsubsection}{\numberline {2.6.2}Operacja getMagazyn}{7}{}%
+\contentsline {subsubsection}{\numberline {2.6.3}Operacja getStan}{8}{}%
+\contentsline {subsubsection}{\numberline {2.6.4}Operacja updateKoszyk}{9}{}%
+\contentsline {subsubsection}{\numberline {2.6.5}Operacja getKoszyk}{10}{}%
+\contentsline {subsubsection}{\numberline {2.6.6}Operacja zwrocpozycjeZKoszyka}{11}{}%
+\contentsline {subsubsection}{\numberline {2.6.7}Operacja deleteFromKoszyk}{11}{}%
+\contentsline {subsubsection}{\numberline {2.6.8}Operacja zlozZamowienie}{12}{}%
